@@ -68,6 +68,8 @@ step3 設定模型開始訓練
 
 <h2>2.程式方塊圖與寫法</h2>
 
+![image](https://github.com/MachineLearningNTUT/regression-109318083/blob/main/Diagram.jpg)
+
 <h2>3.畫圖做結果分析</h2>
 
     def transform(listdir,label,lenSIZE):
