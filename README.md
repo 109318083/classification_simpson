@@ -2,6 +2,10 @@
 classification-109318083 created by GitHub Classroom
 
 
+####Rank####
+![image](https://github.com/MachineLearningNTUT/classification-109318083/blob/main/截圖%202021-01-17%20上午3.50.49.png)
+
+
 <h2>1.做法說明</h2>
 
 step1 讀入圖片標籤，設定batch size、epochs次數、壓縮的圖片大小
